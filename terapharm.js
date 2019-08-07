@@ -1,4 +1,4 @@
-document.write('<table border="0" cellpadding="0" class="table" cellspacing="0" style="margin: 0px;width: 515px;">\
+<table border="0" cellpadding="0" class="table" cellspacing="0" style="margin: 0px;width: 515px;">\
    <tbody>\
    <tr>\
 	   <td style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" class="able">Pharmacy:</td> \
@@ -41,4 +41,4 @@ document.write('<table border="0" cellpadding="0" class="table" cellspacing="0" 
 	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" > <a href="categories/Other/Strattera"><img src="images/b.gif" alt="" style="border: medium none;"></a></td> \
    </tr>            \
    </tbody>\
-   </table>');
+   </table>
