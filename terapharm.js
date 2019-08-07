@@ -18,11 +18,11 @@ document.write('<table border="0" cellpadding="0" class="table" cellspacing="0" 
    </tr>\
    <tr>\
 	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" class="able">Best Price:</td>  \
-	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" > <a href="#buy-strattera" onclick="return gototerapharm(\'categories/Other/Strattera\');">$0.97 Per Tube</a></td> \
+	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" > <a href="categories/Other/Strattera">$0.97 Per Tube</a></td> \
    </tr>\
    <tr>\
 	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" class="able">Bestseller:</td>  \
-	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" ><a href="#buy-strattera" onclick="return gototerapharm(\'categories/Other/Strattera\');">90 mg * 25 mg - $87.72</a></td>   \
+	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" ><a href="categories/Other/Strattera">90 mg * 25 mg - $87.72</a></td>   \
    </tr> 	\
    <tr>       \
 	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" class="able">Payment:</td>    \
@@ -38,7 +38,7 @@ document.write('<table border="0" cellpadding="0" class="table" cellspacing="0" 
    </tr> 			\
    <tr>                \
 	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" class="able">How to Buy?</td>  \
-	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" > <a href="#buy-strattera" onclick="return gototerapharm(\'categories/Other/Strattera\');"><img src="images/b.gif" alt="" style="border: medium none;"></a></td> \
+	   <td  style="text-align: center;font-weight: bold;font-size: 12px;padding: 7px;" > <a href="categories/Other/Strattera"><img src="images/b.gif" alt="" style="border: medium none;"></a></td> \
    </tr>            \
    </tbody>\
    </table>');
